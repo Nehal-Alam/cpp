@@ -19,7 +19,7 @@ int main()
         }
         i++;
     }
-        // else
+        
             cout << num << " is a Prime Numner"<< endl;
         
     return 0;
